@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **object-oriented programming**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SevHope](https://github.com/SevHope)
+- 👨‍💻 All of my projects are available at [https://github.com/SevHope](https://github.com/SevHope?tab=repositories)
 
 - 📫 How to reach me **s.hope@bk.ru**
 
