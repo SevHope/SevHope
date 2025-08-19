@@ -16,5 +16,5 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
   <a href="https://ru.legacy.reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/thumbs/react-logo-vector-1.svg" alt="react" width="40" height="40" /></a>
   <a href="https://static.javatpoint.com/bootstrappages/images/bootstrap-tutorial.png" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/</a>
-  <a href="https://ru.vuejs.org/" target="_blank" <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="vue3" width="40" height="40" /></a>
+  <a href="https://ru.vuejs.org/" target="_blank" <img src="https://commons.wikimedia.org/wiki/File:Vue.js_Logo_2.svg" alt="vue3" width="40" height="40" /></a>
 </p>
