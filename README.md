@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **s.hope@bk.ru**
 
-- 📄 Know about my experiences [https://cv.hexlet.io/ru/resumes/2336](https://cv.hexlet.io/ru/resumes/2336)
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/HTML_basics" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
